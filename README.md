@@ -1,6 +1,6 @@
 # .dotfiles
 
-David's Dotfile
+David's dotfiles
 
 Dependencies
 
