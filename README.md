@@ -1,4 +1,6 @@
 ![Dotfiles screenshot](./images/screenshot_1.png)
+![LazyVim](./images/screenshot_2.png)
+![Alacritty](./images/screenshot_3.png)
 
 # David's dotfiles
 
